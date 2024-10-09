@@ -6,7 +6,7 @@ import App from './App.vue'
 import router from './router'
 
 import vant from 'vant'
-import 'vant/lib/index.css';
+import 'vant/lib/index.css'
 
 // element暗黑模式
 import 'element-plus/theme-chalk/dark/css-vars.css'
